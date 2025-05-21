@@ -10,6 +10,6 @@
  - 실습 수업 시험 출제 범위 : Linux Command, System Call 
 
 
-## AWS EX2 VM 정보
-- IP 및 Private Key 파일정보: ([Drop Box Link](https://www.dropbox.com/scl/fi/grtp7lv1pqekcmphx4b9k/TABA-7-Linux.xlsx?rlkey=zmsvhox96pfvllluhufarokm8&st=qasu4geq&dl=0))
+## AWS EC2 VM 정보
+- IP 및 Private Key 파일정보: ([Drop Box Link](https://www.dropbox.com/scl/fo/89i3xsv0r2pl80kupo1ow/AH0QAmIzRYbcZcek512QMNI?rlkey=kgbpojouj4ms6fujyddsmm1kn&st=k4i9dd6f&dl=0))
 - Password: 온라인 강의 2강 참고
